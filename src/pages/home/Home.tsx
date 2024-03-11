@@ -17,8 +17,8 @@ const Home = () => {
         exit={{ opacity: 0 }}
         className="absolute top-0 mt-12 text-center"
       >
-        <p>"From the orion stars"</p>
-        <p>Judy Walker</p>
+        <p>"From Your Brother"</p>
+        <p>Vishnu</p>
       </motion.div>
       {/* Mobile */}
       <Link

@@ -1,26 +1,16 @@
 <a name="readme-top"></a>
   
-[![GNU License](https://img.shields.io/badge/license-GNU-brightgreen?style=for-the-badge&logo=gnu)](https://github.com/SomnathDas/lofty-leather/blob/main/LICENSE)
-[![Contributers](https://img.shields.io/github/contributors/SomnathDas/whatsapp-botto-go?style=for-the-badge)](https://github.com/SomnathDas/lofty-leather)
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/SomnathDas/lofty-leather">
+  <a href="https://github.com/vishnukoyyada/Birthday-gift.git">
     <img src="https://www.svgrepo.com/show/424896/react-logo-programming-2.svg" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Lofty Leather</h3>
+<h3 align="center">VishnuKoyyada</h3>
 
-  <p align="center">
-   Pleasantly animation-rich web-page built using React.js and Framer-motion.
-    <br />
-    <br />
-    <a href="https://github.com/SomnathDas/whatsapp-botto-go/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/SomnathDas/whatsapp-botto-go/issues">Request Feature</a>
-  </p>
-</div>
+
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -81,7 +71,7 @@
 
 1. Clone the repo
   ```sh
-  git clone https://github.com/SomnathDas/lofty-leather.git
+  git clone https://github.com/vishnukoyyada/Birthday-gift.git
   ```
 2. Get into the repo
   ```sh
@@ -100,46 +90,3 @@
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-## License
-Distributed under the GNU Affero General Public License v3.0 License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- CONTACT -->
-## Contact
-
-Somnath Das - [@instagram_handle](https://instagram.com/samurai3247)
-
-Project Link: [https://github.com/SomnathDas/lofty-leather](https://github.com/SomnathDas/lofty-leather)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-I whole heartedly thank these amazing men/women for their time and effort.
-
-*    Photo by Aiony Haust on [https://unsplash.com/photos/3TLl_97HNJo](https://unsplash.com/photos/3TLl_97HNJo)
-*    Album Art Featured from a song by R E L at [https://open.spotify.com/artist/1esV1Kbjb2mU2NuxzRDQ0D](https://open.spotify.com/artist/1esV1Kbjb2mU2NuxzRDQ0D)
-*    30-seconds audio clip from a song by R E L
-*    30-seconds audio clip from a song by Okay-Kaya
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
